@@ -14,6 +14,7 @@ Simulação do contexto de uma agência bancária, fluxo de abertura de conta e 
 - POCO classes: https://www.eduardopires.net.br/2012/10/classes-poco/
 - Operadores: https://docs.microsoft.com/pt-br/dotnet/csharp/language-reference/operators/
 - ValueObject: https://docs.microsoft.com/en-us/dotnet/architecture/microservices/microservice-ddd-cqrs-patterns/implement-value-objects
+- CleanCode: https://balta.io/artigos/clean-code
 
 # Pilares da Orientação a Objetos
 ## Abstração
